@@ -14,10 +14,11 @@
   "author": "Zhong Yan",
   "license": "MIT",
   "dependencies": {
+    "express": "^4.13.4",
     "react": "^15.5.4",
+    "react-addons-test-utils": "^15.6.0",
     "react-dom": "^15.5.4",
-    "react-router": "^2.0.0",
-    "express": "^4.13.4"
+    "react-router": "^2.0.0"
   },
   "devDependencies": {
     "babel": "^6.5.2",
